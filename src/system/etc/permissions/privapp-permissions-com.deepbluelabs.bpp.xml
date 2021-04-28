@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+  <privapp-permissions package="com.deepbluelabs.bpp">
+    <permission name="android.permission.BLUETOOTH_PRIVILEGED"/>
+    <permission name="android.permission.BLUETOOTH"/>
+    <permission name="android.permission.BLUETOOTH_ADMIN"/>
+    <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+  </privapp-permissions>
+</permissions>
